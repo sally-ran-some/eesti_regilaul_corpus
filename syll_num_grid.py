@@ -6,7 +6,7 @@
 
 #boolean isVowel
 #set of eesti vowels (true) 
-
+#/Applications/Praat.app/Contents/MacOS/Praat
 
 #for word in wordTier
 # int vowel number = 0
