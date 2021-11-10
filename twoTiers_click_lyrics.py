@@ -49,6 +49,7 @@ def addIntervalsLyrics(input):
             start = start+dur
             length = length +dur 
             line = line + 1
+        #tier2.insertEntry(Interval(start,tg.maxTimestamp,lyricList[line]),'replace','warning')
         tg.save(join(input, fn),'long_textgrid',True)
 
 
