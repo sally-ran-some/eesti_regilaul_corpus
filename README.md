@@ -1,15 +1,16 @@
 # eesti_regilaul_corpus
-first, run step one. this will create textgrids with the following tiers:
 
-a point tier of beats
-an interval tier of phrases(eight beats)
-an interval tier of ictus/off-ictus (???)
-then the respective lyrics file will be read in and added to each interval
-on the phrase tier
+a corpus of Estonian regilaul folk songs from the Estonian Folklore Archives:
 
-once this is done, it will open PRAAT and run the Estonian forced aligner on each phrase iteratively
+https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/index
 
-STEP TWO IS MANUALLY CHECKING THE WORD AND SEGMENT TIER RESULTS OF THE FORCED ALIGNER. 
+this repository contains audio files, corresponding tempo maps, txt files of lyrics, and the scripts used to annotate and analyze the acoustic correlates of stress in ictus and off-ictus position in the songs. 
 
-then go on to step three, which adds new interval tiers for
-syllable position (1st or 2nd) for disyllabic words containing a single beat. this then outputs a .csv of the relevant vowels and their data points. 
+I made extensive use of the praatio library in manipulating the textgrids. thanks, praatio. Tim Mahrt. PraatIO. https://github.com/timmahrt/praatIO, 2016.
+
+Could be modified to study other songs in other languages. 
+
+For tempo mapping tutorial: (to come)
+if you want to see the spectrograms with the textgrids, download the audio and grid files and view them in PRAAT: https://www.fon.hum.uva.nl/praat/
+
+
