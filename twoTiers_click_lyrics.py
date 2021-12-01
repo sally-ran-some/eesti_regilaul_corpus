@@ -7,7 +7,7 @@ from praatio.utilities.constants import (
     Interval)
 
 
-def autoSegmentSpeech(praatEXE, inputWavPath, rawTGPath):
+def markIctus(praatEXE, inputWavPath, rawTGPath):
 
     for fn in os.listdir(inputWavPath):
         if ".wav" not in fn:
@@ -16,7 +16,7 @@ def autoSegmentSpeech(praatEXE, inputWavPath, rawTGPath):
         tgFn = name.strip("beat") + ".TextGrid"
         print(tgFn)
         praat_scripts.annotateSilences(
-            praatEXE, join(inputWavPath, fn), join(rawTGPath, tgFn),100,0,-25,0.1,0.1,SILENCE_LABEL,SOUND_LABEL
+         praatEXE, join(inputWavPath, fn), join(rawTGPath, tgFn),100,0,-25,0.1,0.1,SILENCE_LABEL,SOUND_LABEL
         )
 
 def addPhraseTier(rawTGPath, finalTGPath):
@@ -67,7 +67,7 @@ finalTGPath = join(root,"lyric_tier")
 SILENCE_LABEL = "x"
 SOUND_LABEL = "ictus"
 
-autoSegmentSpeech(praatEXE, inputWavPath, rawTGPath)
+#autoSegmentSpeech(praatEXE, inputWavPath, rawTGPath)
 addPhraseTier(rawTGPath, finalTGPath)
 addIntervalsLyrics(finalTGPath)
 #getLyrics(rawTGPath)
