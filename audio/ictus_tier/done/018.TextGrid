@@ -1,0 +1,1486 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 225.68451247165532 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 225.68451247165532 
+        intervals: size = 368 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2422562358276646 
+            text = "ictus" 
+        intervals [2]:
+            xmin = 0.2422562358276646 
+            xmax = 0.6982562358276646 
+            text = "x" 
+        intervals [3]:
+            xmin = 0.6982562358276646 
+            xmax = 0.9542562358276646 
+            text = "ictus" 
+        intervals [4]:
+            xmin = 0.9542562358276646 
+            xmax = 1.4102562358276647 
+            text = "x" 
+        intervals [5]:
+            xmin = 1.4102562358276647 
+            xmax = 1.6662562358276647 
+            text = "ictus" 
+        intervals [6]:
+            xmin = 1.6662562358276647 
+            xmax = 2.1222562358276646 
+            text = "x" 
+        intervals [7]:
+            xmin = 2.1222562358276646 
+            xmax = 2.3782562358276644 
+            text = "ictus" 
+        intervals [8]:
+            xmin = 2.3782562358276644 
+            xmax = 5.5702562358276655 
+            text = "x" 
+        intervals [9]:
+            xmin = 5.5702562358276655 
+            xmax = 5.834256235827665 
+            text = "ictus" 
+        intervals [10]:
+            xmin = 5.834256235827665 
+            xmax = 6.226256235827664 
+            text = "x" 
+        intervals [11]:
+            xmin = 6.226256235827664 
+            xmax = 6.4822562358276645 
+            text = "ictus" 
+        intervals [12]:
+            xmin = 6.4822562358276645 
+            xmax = 6.874256235827664 
+            text = "x" 
+        intervals [13]:
+            xmin = 6.874256235827664 
+            xmax = 7.130256235827664 
+            text = "ictus" 
+        intervals [14]:
+            xmin = 7.130256235827664 
+            xmax = 7.5222562358276654 
+            text = "x" 
+        intervals [15]:
+            xmin = 7.5222562358276654 
+            xmax = 7.786256235827665 
+            text = "ictus" 
+        intervals [16]:
+            xmin = 7.786256235827665 
+            xmax = 10.690256235827665 
+            text = "x" 
+        intervals [17]:
+            xmin = 10.690256235827665 
+            xmax = 10.946256235827665 
+            text = "ictus" 
+        intervals [18]:
+            xmin = 10.946256235827665 
+            xmax = 11.354256235827664 
+            text = "x" 
+        intervals [19]:
+            xmin = 11.354256235827664 
+            xmax = 11.610256235827665 
+            text = "ictus" 
+        intervals [20]:
+            xmin = 11.610256235827665 
+            xmax = 12.018256235827664 
+            text = "x" 
+        intervals [21]:
+            xmin = 12.018256235827664 
+            xmax = 12.274256235827664 
+            text = "ictus" 
+        intervals [22]:
+            xmin = 12.274256235827664 
+            xmax = 12.682256235827664 
+            text = "x" 
+        intervals [23]:
+            xmin = 12.682256235827664 
+            xmax = 12.938256235827664 
+            text = "ictus" 
+        intervals [24]:
+            xmin = 12.938256235827664 
+            xmax = 15.946256235827665 
+            text = "x" 
+        intervals [25]:
+            xmin = 15.946256235827665 
+            xmax = 16.202256235827665 
+            text = "ictus" 
+        intervals [26]:
+            xmin = 16.202256235827665 
+            xmax = 16.570256235827667 
+            text = "x" 
+        intervals [27]:
+            xmin = 16.570256235827667 
+            xmax = 16.834256235827667 
+            text = "ictus" 
+        intervals [28]:
+            xmin = 16.834256235827667 
+            xmax = 17.202256235827665 
+            text = "x" 
+        intervals [29]:
+            xmin = 17.202256235827665 
+            xmax = 17.458256235827665 
+            text = "ictus" 
+        intervals [30]:
+            xmin = 17.458256235827665 
+            xmax = 17.834256235827667 
+            text = "x" 
+        intervals [31]:
+            xmin = 17.834256235827667 
+            xmax = 18.090256235827667 
+            text = "ictus" 
+        intervals [32]:
+            xmin = 18.090256235827667 
+            xmax = 20.978256235827665 
+            text = "x" 
+        intervals [33]:
+            xmin = 20.978256235827665 
+            xmax = 21.242256235827668 
+            text = "ictus" 
+        intervals [34]:
+            xmin = 21.242256235827668 
+            xmax = 21.634256235827667 
+            text = "x" 
+        intervals [35]:
+            xmin = 21.634256235827667 
+            xmax = 21.890256235827668 
+            text = "ictus" 
+        intervals [36]:
+            xmin = 21.890256235827668 
+            xmax = 22.290256235827666 
+            text = "x" 
+        intervals [37]:
+            xmin = 22.290256235827666 
+            xmax = 22.546256235827666 
+            text = "ictus" 
+        intervals [38]:
+            xmin = 22.546256235827666 
+            xmax = 22.938256235827666 
+            text = "x" 
+        intervals [39]:
+            xmin = 22.938256235827666 
+            xmax = 23.194256235827666 
+            text = "ictus" 
+        intervals [40]:
+            xmin = 23.194256235827666 
+            xmax = 26.202256235827665 
+            text = "x" 
+        intervals [41]:
+            xmin = 26.202256235827665 
+            xmax = 26.458256235827665 
+            text = "ictus" 
+        intervals [42]:
+            xmin = 26.458256235827665 
+            xmax = 26.842256235827666 
+            text = "x" 
+        intervals [43]:
+            xmin = 26.842256235827666 
+            xmax = 27.098256235827666 
+            text = "ictus" 
+        intervals [44]:
+            xmin = 27.098256235827666 
+            xmax = 27.482256235827666 
+            text = "x" 
+        intervals [45]:
+            xmin = 27.482256235827666 
+            xmax = 27.746256235827666 
+            text = "ictus" 
+        intervals [46]:
+            xmin = 27.746256235827666 
+            xmax = 28.122256235827667 
+            text = "x" 
+        intervals [47]:
+            xmin = 28.122256235827667 
+            xmax = 28.386256235827666 
+            text = "ictus" 
+        intervals [48]:
+            xmin = 28.386256235827666 
+            xmax = 31.290256235827666 
+            text = "x" 
+        intervals [49]:
+            xmin = 31.290256235827666 
+            xmax = 31.554256235827665 
+            text = "ictus" 
+        intervals [50]:
+            xmin = 31.554256235827665 
+            xmax = 31.938256235827666 
+            text = "x" 
+        intervals [51]:
+            xmin = 31.938256235827666 
+            xmax = 32.20225623582766 
+            text = "ictus" 
+        intervals [52]:
+            xmin = 32.20225623582766 
+            xmax = 32.58625623582766 
+            text = "x" 
+        intervals [53]:
+            xmin = 32.58625623582766 
+            xmax = 32.850256235827665 
+            text = "ictus" 
+        intervals [54]:
+            xmin = 32.850256235827665 
+            xmax = 33.234256235827665 
+            text = "x" 
+        intervals [55]:
+            xmin = 33.234256235827665 
+            xmax = 33.49825623582766 
+            text = "ictus" 
+        intervals [56]:
+            xmin = 33.49825623582766 
+            xmax = 36.47425623582766 
+            text = "x" 
+        intervals [57]:
+            xmin = 36.47425623582766 
+            xmax = 36.73025623582766 
+            text = "ictus" 
+        intervals [58]:
+            xmin = 36.73025623582766 
+            xmax = 37.09025623582766 
+            text = "x" 
+        intervals [59]:
+            xmin = 37.09025623582766 
+            xmax = 37.35425623582766 
+            text = "ictus" 
+        intervals [60]:
+            xmin = 37.35425623582766 
+            xmax = 37.71425623582766 
+            text = "x" 
+        intervals [61]:
+            xmin = 37.71425623582766 
+            xmax = 37.97025623582766 
+            text = "ictus" 
+        intervals [62]:
+            xmin = 37.97025623582766 
+            xmax = 38.33025623582766 
+            text = "x" 
+        intervals [63]:
+            xmin = 38.33025623582766 
+            xmax = 38.594256235827665 
+            text = "ictus" 
+        intervals [64]:
+            xmin = 38.594256235827665 
+            xmax = 41.386256235827666 
+            text = "x" 
+        intervals [65]:
+            xmin = 41.386256235827666 
+            xmax = 41.642256235827666 
+            text = "ictus" 
+        intervals [66]:
+            xmin = 41.642256235827666 
+            xmax = 41.99425623582766 
+            text = "x" 
+        intervals [67]:
+            xmin = 41.99425623582766 
+            xmax = 42.25025623582766 
+            text = "ictus" 
+        intervals [68]:
+            xmin = 42.25025623582766 
+            xmax = 42.60225623582766 
+            text = "x" 
+        intervals [69]:
+            xmin = 42.60225623582766 
+            xmax = 42.85825623582766 
+            text = "ictus" 
+        intervals [70]:
+            xmin = 42.85825623582766 
+            xmax = 43.210256235827664 
+            text = "x" 
+        intervals [71]:
+            xmin = 43.210256235827664 
+            xmax = 43.466256235827665 
+            text = "ictus" 
+        intervals [72]:
+            xmin = 43.466256235827665 
+            xmax = 46.29025623582766 
+            text = "x" 
+        intervals [73]:
+            xmin = 46.29025623582766 
+            xmax = 46.54625623582766 
+            text = "ictus" 
+        intervals [74]:
+            xmin = 46.54625623582766 
+            xmax = 46.92225623582766 
+            text = "x" 
+        intervals [75]:
+            xmin = 46.92225623582766 
+            xmax = 47.17825623582766 
+            text = "ictus" 
+        intervals [76]:
+            xmin = 47.17825623582766 
+            xmax = 47.554256235827665 
+            text = "x" 
+        intervals [77]:
+            xmin = 47.554256235827665 
+            xmax = 47.810256235827666 
+            text = "ictus" 
+        intervals [78]:
+            xmin = 47.810256235827666 
+            xmax = 48.18625623582766 
+            text = "x" 
+        intervals [79]:
+            xmin = 48.18625623582766 
+            xmax = 48.442256235827664 
+            text = "ictus" 
+        intervals [80]:
+            xmin = 48.442256235827664 
+            xmax = 51.34625623582766 
+            text = "x" 
+        intervals [81]:
+            xmin = 51.34625623582766 
+            xmax = 51.60225623582766 
+            text = "ictus" 
+        intervals [82]:
+            xmin = 51.60225623582766 
+            xmax = 51.978256235827665 
+            text = "x" 
+        intervals [83]:
+            xmin = 51.978256235827665 
+            xmax = 52.234256235827665 
+            text = "ictus" 
+        intervals [84]:
+            xmin = 52.234256235827665 
+            xmax = 52.61025623582766 
+            text = "x" 
+        intervals [85]:
+            xmin = 52.61025623582766 
+            xmax = 52.86625623582766 
+            text = "ictus" 
+        intervals [86]:
+            xmin = 52.86625623582766 
+            xmax = 53.24225623582766 
+            text = "x" 
+        intervals [87]:
+            xmin = 53.24225623582766 
+            xmax = 53.506256235827664 
+            text = "ictus" 
+        intervals [88]:
+            xmin = 53.506256235827664 
+            xmax = 56.53825623582766 
+            text = "x" 
+        intervals [89]:
+            xmin = 56.53825623582766 
+            xmax = 56.80225623582766 
+            text = "ictus" 
+        intervals [90]:
+            xmin = 56.80225623582766 
+            xmax = 57.16225623582766 
+            text = "x" 
+        intervals [91]:
+            xmin = 57.16225623582766 
+            xmax = 57.41825623582766 
+            text = "ictus" 
+        intervals [92]:
+            xmin = 57.41825623582766 
+            xmax = 57.77825623582766 
+            text = "x" 
+        intervals [93]:
+            xmin = 57.77825623582766 
+            xmax = 58.03425623582766 
+            text = "ictus" 
+        intervals [94]:
+            xmin = 58.03425623582766 
+            xmax = 58.39425623582766 
+            text = "x" 
+        intervals [95]:
+            xmin = 58.39425623582766 
+            xmax = 58.65025623582766 
+            text = "ictus" 
+        intervals [96]:
+            xmin = 58.65025623582766 
+            xmax = 61.53825623582766 
+            text = "x" 
+        intervals [97]:
+            xmin = 61.53825623582766 
+            xmax = 61.79425623582766 
+            text = "ictus" 
+        intervals [98]:
+            xmin = 61.79425623582766 
+            xmax = 62.170256235827665 
+            text = "x" 
+        intervals [99]:
+            xmin = 62.170256235827665 
+            xmax = 62.43425623582766 
+            text = "ictus" 
+        intervals [100]:
+            xmin = 62.43425623582766 
+            xmax = 62.810256235827666 
+            text = "x" 
+        intervals [101]:
+            xmin = 62.810256235827666 
+            xmax = 63.066256235827666 
+            text = "ictus" 
+        intervals [102]:
+            xmin = 63.066256235827666 
+            xmax = 63.450256235827666 
+            text = "x" 
+        intervals [103]:
+            xmin = 63.450256235827666 
+            xmax = 63.70625623582767 
+            text = "ictus" 
+        intervals [104]:
+            xmin = 63.70625623582767 
+            xmax = 66.58625623582768 
+            text = "x" 
+        intervals [105]:
+            xmin = 66.58625623582768 
+            xmax = 66.84225623582768 
+            text = "ictus" 
+        intervals [106]:
+            xmin = 66.84225623582768 
+            xmax = 67.22625623582768 
+            text = "x" 
+        intervals [107]:
+            xmin = 67.22625623582768 
+            xmax = 67.48225623582768 
+            text = "ictus" 
+        intervals [108]:
+            xmin = 67.48225623582768 
+            xmax = 67.86625623582768 
+            text = "x" 
+        intervals [109]:
+            xmin = 67.86625623582768 
+            xmax = 68.12225623582768 
+            text = "ictus" 
+        intervals [110]:
+            xmin = 68.12225623582768 
+            xmax = 68.50625623582768 
+            text = "x" 
+        intervals [111]:
+            xmin = 68.50625623582768 
+            xmax = 68.76225623582766 
+            text = "ictus" 
+        intervals [112]:
+            xmin = 68.76225623582766 
+            xmax = 71.70625623582767 
+            text = "x" 
+        intervals [113]:
+            xmin = 71.70625623582767 
+            xmax = 71.96225623582767 
+            text = "ictus" 
+        intervals [114]:
+            xmin = 71.96225623582767 
+            xmax = 72.33025623582768 
+            text = "x" 
+        intervals [115]:
+            xmin = 72.33025623582768 
+            xmax = 72.59425623582767 
+            text = "ictus" 
+        intervals [116]:
+            xmin = 72.59425623582767 
+            xmax = 72.96225623582767 
+            text = "x" 
+        intervals [117]:
+            xmin = 72.96225623582767 
+            xmax = 73.21825623582767 
+            text = "ictus" 
+        intervals [118]:
+            xmin = 73.21825623582767 
+            xmax = 73.58625623582768 
+            text = "x" 
+        intervals [119]:
+            xmin = 73.58625623582768 
+            xmax = 73.85025623582767 
+            text = "ictus" 
+        intervals [120]:
+            xmin = 73.85025623582767 
+            xmax = 76.73025623582767 
+            text = "x" 
+        intervals [121]:
+            xmin = 76.73025623582767 
+            xmax = 76.99425623582768 
+            text = "ictus" 
+        intervals [122]:
+            xmin = 76.99425623582768 
+            xmax = 77.38625623582767 
+            text = "x" 
+        intervals [123]:
+            xmin = 77.38625623582767 
+            xmax = 77.64225623582767 
+            text = "ictus" 
+        intervals [124]:
+            xmin = 77.64225623582767 
+            xmax = 78.04225623582767 
+            text = "x" 
+        intervals [125]:
+            xmin = 78.04225623582767 
+            xmax = 78.29825623582767 
+            text = "ictus" 
+        intervals [126]:
+            xmin = 78.29825623582767 
+            xmax = 78.69825623582767 
+            text = "x" 
+        intervals [127]:
+            xmin = 78.69825623582767 
+            xmax = 78.95425623582767 
+            text = "ictus" 
+        intervals [128]:
+            xmin = 78.95425623582767 
+            xmax = 81.89825623582767 
+            text = "x" 
+        intervals [129]:
+            xmin = 81.89825623582767 
+            xmax = 82.15425623582767 
+            text = "ictus" 
+        intervals [130]:
+            xmin = 82.15425623582767 
+            xmax = 82.51425623582767 
+            text = "x" 
+        intervals [131]:
+            xmin = 82.51425623582767 
+            xmax = 82.77025623582767 
+            text = "ictus" 
+        intervals [132]:
+            xmin = 82.77025623582767 
+            xmax = 83.13025623582767 
+            text = "x" 
+        intervals [133]:
+            xmin = 83.13025623582767 
+            xmax = 83.38625623582767 
+            text = "ictus" 
+        intervals [134]:
+            xmin = 83.38625623582767 
+            xmax = 83.74625623582767 
+            text = "x" 
+        intervals [135]:
+            xmin = 83.74625623582767 
+            xmax = 84.01025623582767 
+            text = "ictus" 
+        intervals [136]:
+            xmin = 84.01025623582767 
+            xmax = 86.89025623582768 
+            text = "x" 
+        intervals [137]:
+            xmin = 86.89025623582768 
+            xmax = 87.14625623582766 
+            text = "ictus" 
+        intervals [138]:
+            xmin = 87.14625623582766 
+            xmax = 87.52225623582767 
+            text = "x" 
+        intervals [139]:
+            xmin = 87.52225623582767 
+            xmax = 87.77825623582767 
+            text = "ictus" 
+        intervals [140]:
+            xmin = 87.77825623582767 
+            xmax = 88.15425623582767 
+            text = "x" 
+        intervals [141]:
+            xmin = 88.15425623582767 
+            xmax = 88.41025623582767 
+            text = "ictus" 
+        intervals [142]:
+            xmin = 88.41025623582767 
+            xmax = 88.78625623582766 
+            text = "x" 
+        intervals [143]:
+            xmin = 88.78625623582766 
+            xmax = 89.04225623582767 
+            text = "ictus" 
+        intervals [144]:
+            xmin = 89.04225623582767 
+            xmax = 92.00225623582767 
+            text = "x" 
+        intervals [145]:
+            xmin = 92.00225623582767 
+            xmax = 92.25825623582767 
+            text = "ictus" 
+        intervals [146]:
+            xmin = 92.25825623582767 
+            xmax = 92.63425623582768 
+            text = "x" 
+        intervals [147]:
+            xmin = 92.63425623582768 
+            xmax = 92.89025623582768 
+            text = "ictus" 
+        intervals [148]:
+            xmin = 92.89025623582768 
+            xmax = 93.25825623582767 
+            text = "x" 
+        intervals [149]:
+            xmin = 93.25825623582767 
+            xmax = 93.52225623582767 
+            text = "ictus" 
+        intervals [150]:
+            xmin = 93.52225623582767 
+            xmax = 93.89025623582768 
+            text = "x" 
+        intervals [151]:
+            xmin = 93.89025623582768 
+            xmax = 94.14625623582768 
+            text = "ictus" 
+        intervals [152]:
+            xmin = 94.14625623582768 
+            xmax = 96.97825623582767 
+            text = "x" 
+        intervals [153]:
+            xmin = 96.97825623582767 
+            xmax = 97.24225623582767 
+            text = "ictus" 
+        intervals [154]:
+            xmin = 97.24225623582767 
+            xmax = 97.61025623582768 
+            text = "x" 
+        intervals [155]:
+            xmin = 97.61025623582768 
+            xmax = 97.86625623582768 
+            text = "ictus" 
+        intervals [156]:
+            xmin = 97.86625623582768 
+            xmax = 98.23425623582767 
+            text = "x" 
+        intervals [157]:
+            xmin = 98.23425623582767 
+            xmax = 98.49825623582767 
+            text = "ictus" 
+        intervals [158]:
+            xmin = 98.49825623582767 
+            xmax = 98.86625623582768 
+            text = "x" 
+        intervals [159]:
+            xmin = 98.86625623582768 
+            xmax = 99.12225623582768 
+            text = "ictus" 
+        intervals [160]:
+            xmin = 99.12225623582768 
+            xmax = 102.05825623582767 
+            text = "x" 
+        intervals [161]:
+            xmin = 102.05825623582767 
+            xmax = 102.31425623582767 
+            text = "ictus" 
+        intervals [162]:
+            xmin = 102.31425623582767 
+            xmax = 102.66625623582767 
+            text = "x" 
+        intervals [163]:
+            xmin = 102.66625623582767 
+            xmax = 102.92225623582767 
+            text = "ictus" 
+        intervals [164]:
+            xmin = 102.92225623582767 
+            xmax = 103.27425623582768 
+            text = "x" 
+        intervals [165]:
+            xmin = 103.27425623582768 
+            xmax = 103.53025623582766 
+            text = "ictus" 
+        intervals [166]:
+            xmin = 103.53025623582766 
+            xmax = 103.88225623582767 
+            text = "x" 
+        intervals [167]:
+            xmin = 103.88225623582767 
+            xmax = 104.13825623582767 
+            text = "ictus" 
+        intervals [168]:
+            xmin = 104.13825623582767 
+            xmax = 106.92225623582767 
+            text = "x" 
+        intervals [169]:
+            xmin = 106.92225623582767 
+            xmax = 107.17825623582767 
+            text = "ictus" 
+        intervals [170]:
+            xmin = 107.17825623582767 
+            xmax = 107.52225623582767 
+            text = "x" 
+        intervals [171]:
+            xmin = 107.52225623582767 
+            xmax = 107.77825623582767 
+            text = "ictus" 
+        intervals [172]:
+            xmin = 107.77825623582767 
+            xmax = 108.12225623582768 
+            text = "x" 
+        intervals [173]:
+            xmin = 108.12225623582768 
+            xmax = 108.37825623582768 
+            text = "ictus" 
+        intervals [174]:
+            xmin = 108.37825623582768 
+            xmax = 108.72225623582767 
+            text = "x" 
+        intervals [175]:
+            xmin = 108.72225623582767 
+            xmax = 108.97825623582767 
+            text = "ictus" 
+        intervals [176]:
+            xmin = 108.97825623582767 
+            xmax = 111.80225623582767 
+            text = "x" 
+        intervals [177]:
+            xmin = 111.80225623582767 
+            xmax = 112.05825623582767 
+            text = "ictus" 
+        intervals [178]:
+            xmin = 112.05825623582767 
+            xmax = 112.41025623582767 
+            text = "x" 
+        intervals [179]:
+            xmin = 112.41025623582767 
+            xmax = 112.66625623582767 
+            text = "ictus" 
+        intervals [180]:
+            xmin = 112.66625623582767 
+            xmax = 113.01825623582768 
+            text = "x" 
+        intervals [181]:
+            xmin = 113.01825623582768 
+            xmax = 113.27425623582768 
+            text = "ictus" 
+        intervals [182]:
+            xmin = 113.27425623582768 
+            xmax = 113.62625623582767 
+            text = "x" 
+        intervals [183]:
+            xmin = 113.62625623582767 
+            xmax = 113.88225623582767 
+            text = "ictus" 
+        intervals [184]:
+            xmin = 113.88225623582767 
+            xmax = 116.66625623582767 
+            text = "x" 
+        intervals [185]:
+            xmin = 116.66625623582767 
+            xmax = 116.92225623582767 
+            text = "ictus" 
+        intervals [186]:
+            xmin = 116.92225623582767 
+            xmax = 117.26625623582767 
+            text = "x" 
+        intervals [187]:
+            xmin = 117.26625623582767 
+            xmax = 117.52225623582767 
+            text = "ictus" 
+        intervals [188]:
+            xmin = 117.52225623582767 
+            xmax = 117.86625623582768 
+            text = "x" 
+        intervals [189]:
+            xmin = 117.86625623582768 
+            xmax = 118.12225623582768 
+            text = "ictus" 
+        intervals [190]:
+            xmin = 118.12225623582768 
+            xmax = 118.45825623582768 
+            text = "x" 
+        intervals [191]:
+            xmin = 118.45825623582768 
+            xmax = 118.72225623582767 
+            text = "ictus" 
+        intervals [192]:
+            xmin = 118.72225623582767 
+            xmax = 121.40225623582768 
+            text = "x" 
+        intervals [193]:
+            xmin = 121.40225623582768 
+            xmax = 121.65825623582768 
+            text = "ictus" 
+        intervals [194]:
+            xmin = 121.65825623582768 
+            xmax = 122.01025623582767 
+            text = "x" 
+        intervals [195]:
+            xmin = 122.01025623582767 
+            xmax = 122.26625623582767 
+            text = "ictus" 
+        intervals [196]:
+            xmin = 122.26625623582767 
+            xmax = 122.61025623582768 
+            text = "x" 
+        intervals [197]:
+            xmin = 122.61025623582768 
+            xmax = 122.87425623582767 
+            text = "ictus" 
+        intervals [198]:
+            xmin = 122.87425623582767 
+            xmax = 123.21825623582767 
+            text = "x" 
+        intervals [199]:
+            xmin = 123.21825623582767 
+            xmax = 123.48225623582768 
+            text = "ictus" 
+        intervals [200]:
+            xmin = 123.48225623582768 
+            xmax = 126.25825623582767 
+            text = "x" 
+        intervals [201]:
+            xmin = 126.25825623582767 
+            xmax = 126.51425623582767 
+            text = "ictus" 
+        intervals [202]:
+            xmin = 126.51425623582767 
+            xmax = 126.87425623582767 
+            text = "x" 
+        intervals [203]:
+            xmin = 126.87425623582767 
+            xmax = 127.13025623582767 
+            text = "ictus" 
+        intervals [204]:
+            xmin = 127.13025623582767 
+            xmax = 127.49025623582767 
+            text = "x" 
+        intervals [205]:
+            xmin = 127.49025623582767 
+            xmax = 127.74625623582767 
+            text = "ictus" 
+        intervals [206]:
+            xmin = 127.74625623582767 
+            xmax = 128.10625623582766 
+            text = "x" 
+        intervals [207]:
+            xmin = 128.10625623582766 
+            xmax = 128.36225623582766 
+            text = "ictus" 
+        intervals [208]:
+            xmin = 128.36225623582766 
+            xmax = 131.15425623582766 
+            text = "x" 
+        intervals [209]:
+            xmin = 131.15425623582766 
+            xmax = 131.41025623582766 
+            text = "ictus" 
+        intervals [210]:
+            xmin = 131.41025623582766 
+            xmax = 131.75425623582765 
+            text = "x" 
+        intervals [211]:
+            xmin = 131.75425623582765 
+            xmax = 132.01025623582765 
+            text = "ictus" 
+        intervals [212]:
+            xmin = 132.01025623582765 
+            xmax = 132.35425623582765 
+            text = "x" 
+        intervals [213]:
+            xmin = 132.35425623582765 
+            xmax = 132.61025623582765 
+            text = "ictus" 
+        intervals [214]:
+            xmin = 132.61025623582765 
+            xmax = 132.95425623582767 
+            text = "x" 
+        intervals [215]:
+            xmin = 132.95425623582767 
+            xmax = 133.21025623582767 
+            text = "ictus" 
+        intervals [216]:
+            xmin = 133.21025623582767 
+            xmax = 135.98625623582765 
+            text = "x" 
+        intervals [217]:
+            xmin = 135.98625623582765 
+            xmax = 136.25025623582766 
+            text = "ictus" 
+        intervals [218]:
+            xmin = 136.25025623582766 
+            xmax = 136.58625623582765 
+            text = "x" 
+        intervals [219]:
+            xmin = 136.58625623582765 
+            xmax = 136.85025623582766 
+            text = "ictus" 
+        intervals [220]:
+            xmin = 136.85025623582766 
+            xmax = 137.18625623582767 
+            text = "x" 
+        intervals [221]:
+            xmin = 137.18625623582767 
+            xmax = 137.45025623582765 
+            text = "ictus" 
+        intervals [222]:
+            xmin = 137.45025623582765 
+            xmax = 137.78625623582766 
+            text = "x" 
+        intervals [223]:
+            xmin = 137.78625623582766 
+            xmax = 138.05025623582765 
+            text = "ictus" 
+        intervals [224]:
+            xmin = 138.05025623582765 
+            xmax = 140.82625623582766 
+            text = "x" 
+        intervals [225]:
+            xmin = 140.82625623582766 
+            xmax = 141.09025623582767 
+            text = "ictus" 
+        intervals [226]:
+            xmin = 141.09025623582767 
+            xmax = 141.44225623582767 
+            text = "x" 
+        intervals [227]:
+            xmin = 141.44225623582767 
+            xmax = 141.69825623582767 
+            text = "ictus" 
+        intervals [228]:
+            xmin = 141.69825623582767 
+            xmax = 142.05025623582765 
+            text = "x" 
+        intervals [229]:
+            xmin = 142.05025623582765 
+            xmax = 142.30625623582765 
+            text = "ictus" 
+        intervals [230]:
+            xmin = 142.30625623582765 
+            xmax = 142.65825623582765 
+            text = "x" 
+        intervals [231]:
+            xmin = 142.65825623582765 
+            xmax = 142.92225623582766 
+            text = "ictus" 
+        intervals [232]:
+            xmin = 142.92225623582766 
+            xmax = 145.70625623582765 
+            text = "x" 
+        intervals [233]:
+            xmin = 145.70625623582765 
+            xmax = 145.97025623582766 
+            text = "ictus" 
+        intervals [234]:
+            xmin = 145.97025623582766 
+            xmax = 146.33025623582765 
+            text = "x" 
+        intervals [235]:
+            xmin = 146.33025623582765 
+            xmax = 146.58625623582765 
+            text = "ictus" 
+        intervals [236]:
+            xmin = 146.58625623582765 
+            xmax = 146.94625623582766 
+            text = "x" 
+        intervals [237]:
+            xmin = 146.94625623582766 
+            xmax = 147.20225623582766 
+            text = "ictus" 
+        intervals [238]:
+            xmin = 147.20225623582766 
+            xmax = 147.56225623582765 
+            text = "x" 
+        intervals [239]:
+            xmin = 147.56225623582765 
+            xmax = 147.81825623582765 
+            text = "ictus" 
+        intervals [240]:
+            xmin = 147.81825623582765 
+            xmax = 150.56225623582765 
+            text = "x" 
+        intervals [241]:
+            xmin = 150.56225623582765 
+            xmax = 150.82625623582766 
+            text = "ictus" 
+        intervals [242]:
+            xmin = 150.82625623582766 
+            xmax = 151.16225623582767 
+            text = "x" 
+        intervals [243]:
+            xmin = 151.16225623582767 
+            xmax = 151.41825623582767 
+            text = "ictus" 
+        intervals [244]:
+            xmin = 151.41825623582767 
+            xmax = 151.76225623582766 
+            text = "x" 
+        intervals [245]:
+            xmin = 151.76225623582766 
+            xmax = 152.01825623582766 
+            text = "ictus" 
+        intervals [246]:
+            xmin = 152.01825623582766 
+            xmax = 152.35425623582765 
+            text = "x" 
+        intervals [247]:
+            xmin = 152.35425623582765 
+            xmax = 152.61025623582765 
+            text = "ictus" 
+        intervals [248]:
+            xmin = 152.61025623582765 
+            xmax = 155.29825623582767 
+            text = "x" 
+        intervals [249]:
+            xmin = 155.29825623582767 
+            xmax = 155.56225623582765 
+            text = "ictus" 
+        intervals [250]:
+            xmin = 155.56225623582765 
+            xmax = 155.88225623582767 
+            text = "x" 
+        intervals [251]:
+            xmin = 155.88225623582767 
+            xmax = 156.14625623582765 
+            text = "ictus" 
+        intervals [252]:
+            xmin = 156.14625623582765 
+            xmax = 156.47425623582765 
+            text = "x" 
+        intervals [253]:
+            xmin = 156.47425623582765 
+            xmax = 156.73025623582765 
+            text = "ictus" 
+        intervals [254]:
+            xmin = 156.73025623582765 
+            xmax = 157.05825623582766 
+            text = "x" 
+        intervals [255]:
+            xmin = 157.05825623582766 
+            xmax = 157.32225623582767 
+            text = "ictus" 
+        intervals [256]:
+            xmin = 157.32225623582767 
+            xmax = 159.99425623582766 
+            text = "x" 
+        intervals [257]:
+            xmin = 159.99425623582766 
+            xmax = 160.25825623582764 
+            text = "ictus" 
+        intervals [258]:
+            xmin = 160.25825623582764 
+            xmax = 160.60225623582767 
+            text = "x" 
+        intervals [259]:
+            xmin = 160.60225623582767 
+            xmax = 160.85825623582767 
+            text = "ictus" 
+        intervals [260]:
+            xmin = 160.85825623582767 
+            xmax = 161.21025623582767 
+            text = "x" 
+        intervals [261]:
+            xmin = 161.21025623582767 
+            xmax = 161.46625623582767 
+            text = "ictus" 
+        intervals [262]:
+            xmin = 161.46625623582767 
+            xmax = 161.81825623582765 
+            text = "x" 
+        intervals [263]:
+            xmin = 161.81825623582765 
+            xmax = 162.07425623582765 
+            text = "ictus" 
+        intervals [264]:
+            xmin = 162.07425623582765 
+            xmax = 164.76225623582766 
+            text = "x" 
+        intervals [265]:
+            xmin = 164.76225623582766 
+            xmax = 165.01825623582766 
+            text = "ictus" 
+        intervals [266]:
+            xmin = 165.01825623582766 
+            xmax = 165.37025623582767 
+            text = "x" 
+        intervals [267]:
+            xmin = 165.37025623582767 
+            xmax = 165.62625623582767 
+            text = "ictus" 
+        intervals [268]:
+            xmin = 165.62625623582767 
+            xmax = 165.97825623582767 
+            text = "x" 
+        intervals [269]:
+            xmin = 165.97825623582767 
+            xmax = 166.23425623582767 
+            text = "ictus" 
+        intervals [270]:
+            xmin = 166.23425623582767 
+            xmax = 166.58625623582765 
+            text = "x" 
+        intervals [271]:
+            xmin = 166.58625623582765 
+            xmax = 166.84225623582765 
+            text = "ictus" 
+        intervals [272]:
+            xmin = 166.84225623582765 
+            xmax = 169.65825623582765 
+            text = "x" 
+        intervals [273]:
+            xmin = 169.65825623582765 
+            xmax = 169.91425623582765 
+            text = "ictus" 
+        intervals [274]:
+            xmin = 169.91425623582765 
+            xmax = 170.27425623582766 
+            text = "x" 
+        intervals [275]:
+            xmin = 170.27425623582766 
+            xmax = 170.53825623582765 
+            text = "ictus" 
+        intervals [276]:
+            xmin = 170.53825623582765 
+            xmax = 170.89825623582766 
+            text = "x" 
+        intervals [277]:
+            xmin = 170.89825623582766 
+            xmax = 171.16225623582767 
+            text = "ictus" 
+        intervals [278]:
+            xmin = 171.16225623582767 
+            xmax = 171.52225623582765 
+            text = "x" 
+        intervals [279]:
+            xmin = 171.52225623582765 
+            xmax = 171.77825623582766 
+            text = "ictus" 
+        intervals [280]:
+            xmin = 171.77825623582766 
+            xmax = 174.66625623582766 
+            text = "x" 
+        intervals [281]:
+            xmin = 174.66625623582766 
+            xmax = 174.92225623582766 
+            text = "ictus" 
+        intervals [282]:
+            xmin = 174.92225623582766 
+            xmax = 175.25025623582766 
+            text = "x" 
+        intervals [283]:
+            xmin = 175.25025623582766 
+            xmax = 175.51425623582765 
+            text = "ictus" 
+        intervals [284]:
+            xmin = 175.51425623582765 
+            xmax = 175.84225623582765 
+            text = "x" 
+        intervals [285]:
+            xmin = 175.84225623582765 
+            xmax = 176.09825623582765 
+            text = "ictus" 
+        intervals [286]:
+            xmin = 176.09825623582765 
+            xmax = 176.42625623582765 
+            text = "x" 
+        intervals [287]:
+            xmin = 176.42625623582765 
+            xmax = 176.69025623582766 
+            text = "ictus" 
+        intervals [288]:
+            xmin = 176.69025623582766 
+            xmax = 179.37025623582767 
+            text = "x" 
+        intervals [289]:
+            xmin = 179.37025623582767 
+            xmax = 179.62625623582767 
+            text = "ictus" 
+        intervals [290]:
+            xmin = 179.62625623582767 
+            xmax = 179.97025623582766 
+            text = "x" 
+        intervals [291]:
+            xmin = 179.97025623582766 
+            xmax = 180.22625623582766 
+            text = "ictus" 
+        intervals [292]:
+            xmin = 180.22625623582766 
+            xmax = 180.57025623582766 
+            text = "x" 
+        intervals [293]:
+            xmin = 180.57025623582766 
+            xmax = 180.82625623582766 
+            text = "ictus" 
+        intervals [294]:
+            xmin = 180.82625623582766 
+            xmax = 181.17025623582765 
+            text = "x" 
+        intervals [295]:
+            xmin = 181.17025623582765 
+            xmax = 181.42625623582765 
+            text = "ictus" 
+        intervals [296]:
+            xmin = 181.42625623582765 
+            xmax = 184.06625623582767 
+            text = "x" 
+        intervals [297]:
+            xmin = 184.06625623582767 
+            xmax = 184.33025623582765 
+            text = "ictus" 
+        intervals [298]:
+            xmin = 184.33025623582765 
+            xmax = 184.68225623582765 
+            text = "x" 
+        intervals [299]:
+            xmin = 184.68225623582765 
+            xmax = 184.94625623582766 
+            text = "ictus" 
+        intervals [300]:
+            xmin = 184.94625623582766 
+            xmax = 185.29825623582767 
+            text = "x" 
+        intervals [301]:
+            xmin = 185.29825623582767 
+            xmax = 185.56225623582765 
+            text = "ictus" 
+        intervals [302]:
+            xmin = 185.56225623582765 
+            xmax = 185.91425623582765 
+            text = "x" 
+        intervals [303]:
+            xmin = 185.91425623582765 
+            xmax = 186.17025623582765 
+            text = "ictus" 
+        intervals [304]:
+            xmin = 186.17025623582765 
+            xmax = 188.99425623582766 
+            text = "x" 
+        intervals [305]:
+            xmin = 188.99425623582766 
+            xmax = 189.25025623582766 
+            text = "ictus" 
+        intervals [306]:
+            xmin = 189.25025623582766 
+            xmax = 189.59425623582766 
+            text = "x" 
+        intervals [307]:
+            xmin = 189.59425623582766 
+            xmax = 189.85025623582766 
+            text = "ictus" 
+        intervals [308]:
+            xmin = 189.85025623582766 
+            xmax = 190.19425623582765 
+            text = "x" 
+        intervals [309]:
+            xmin = 190.19425623582765 
+            xmax = 190.45025623582765 
+            text = "ictus" 
+        intervals [310]:
+            xmin = 190.45025623582765 
+            xmax = 190.79425623582765 
+            text = "x" 
+        intervals [311]:
+            xmin = 190.79425623582765 
+            xmax = 191.05825623582766 
+            text = "ictus" 
+        intervals [312]:
+            xmin = 191.05825623582766 
+            xmax = 193.73825623582766 
+            text = "x" 
+        intervals [313]:
+            xmin = 193.73825623582766 
+            xmax = 194.00225623582767 
+            text = "ictus" 
+        intervals [314]:
+            xmin = 194.00225623582767 
+            xmax = 194.33825623582766 
+            text = "x" 
+        intervals [315]:
+            xmin = 194.33825623582766 
+            xmax = 194.59425623582766 
+            text = "ictus" 
+        intervals [316]:
+            xmin = 194.59425623582766 
+            xmax = 194.93025623582767 
+            text = "x" 
+        intervals [317]:
+            xmin = 194.93025623582767 
+            xmax = 195.18625623582767 
+            text = "ictus" 
+        intervals [318]:
+            xmin = 195.18625623582767 
+            xmax = 195.52225623582765 
+            text = "x" 
+        intervals [319]:
+            xmin = 195.52225623582765 
+            xmax = 195.78625623582766 
+            text = "ictus" 
+        intervals [320]:
+            xmin = 195.78625623582766 
+            xmax = 198.49825623582765 
+            text = "x" 
+        intervals [321]:
+            xmin = 198.49825623582765 
+            xmax = 198.75425623582765 
+            text = "ictus" 
+        intervals [322]:
+            xmin = 198.75425623582765 
+            xmax = 199.10625623582766 
+            text = "x" 
+        intervals [323]:
+            xmin = 199.10625623582766 
+            xmax = 199.36225623582766 
+            text = "ictus" 
+        intervals [324]:
+            xmin = 199.36225623582766 
+            xmax = 199.71425623582766 
+            text = "x" 
+        intervals [325]:
+            xmin = 199.71425623582766 
+            xmax = 199.97825623582767 
+            text = "ictus" 
+        intervals [326]:
+            xmin = 199.97825623582767 
+            xmax = 200.33025623582765 
+            text = "x" 
+        intervals [327]:
+            xmin = 200.33025623582765 
+            xmax = 200.58625623582765 
+            text = "ictus" 
+        intervals [328]:
+            xmin = 200.58625623582765 
+            xmax = 203.23425623582767 
+            text = "x" 
+        intervals [329]:
+            xmin = 203.23425623582767 
+            xmax = 203.49025623582767 
+            text = "ictus" 
+        intervals [330]:
+            xmin = 203.49025623582767 
+            xmax = 203.84225623582765 
+            text = "x" 
+        intervals [331]:
+            xmin = 203.84225623582765 
+            xmax = 204.09825623582765 
+            text = "ictus" 
+        intervals [332]:
+            xmin = 204.09825623582765 
+            xmax = 204.44225623582767 
+            text = "x" 
+        intervals [333]:
+            xmin = 204.44225623582767 
+            xmax = 204.70625623582765 
+            text = "ictus" 
+        intervals [334]:
+            xmin = 204.70625623582765 
+            xmax = 205.05025623582765 
+            text = "x" 
+        intervals [335]:
+            xmin = 205.05025623582765 
+            xmax = 205.30625623582765 
+            text = "ictus" 
+        intervals [336]:
+            xmin = 205.30625623582765 
+            xmax = 207.98625623582765 
+            text = "x" 
+        intervals [337]:
+            xmin = 207.98625623582765 
+            xmax = 208.25025623582766 
+            text = "ictus" 
+        intervals [338]:
+            xmin = 208.25025623582766 
+            xmax = 208.56225623582765 
+            text = "x" 
+        intervals [339]:
+            xmin = 208.56225623582765 
+            xmax = 208.82625623582766 
+            text = "ictus" 
+        intervals [340]:
+            xmin = 208.82625623582766 
+            xmax = 209.13825623582767 
+            text = "x" 
+        intervals [341]:
+            xmin = 209.13825623582767 
+            xmax = 209.40225623582765 
+            text = "ictus" 
+        intervals [342]:
+            xmin = 209.40225623582765 
+            xmax = 209.72225623582767 
+            text = "x" 
+        intervals [343]:
+            xmin = 209.72225623582767 
+            xmax = 209.97825623582767 
+            text = "ictus" 
+        intervals [344]:
+            xmin = 209.97825623582767 
+            xmax = 212.53025623582766 
+            text = "x" 
+        intervals [345]:
+            xmin = 212.53025623582766 
+            xmax = 212.79425623582765 
+            text = "ictus" 
+        intervals [346]:
+            xmin = 212.79425623582765 
+            xmax = 213.12225623582765 
+            text = "x" 
+        intervals [347]:
+            xmin = 213.12225623582765 
+            xmax = 213.37825623582765 
+            text = "ictus" 
+        intervals [348]:
+            xmin = 213.37825623582765 
+            xmax = 213.71425623582766 
+            text = "x" 
+        intervals [349]:
+            xmin = 213.71425623582766 
+            xmax = 213.97025623582766 
+            text = "ictus" 
+        intervals [350]:
+            xmin = 213.97025623582766 
+            xmax = 214.29825623582767 
+            text = "x" 
+        intervals [351]:
+            xmin = 214.29825623582767 
+            xmax = 214.56225623582765 
+            text = "ictus" 
+        intervals [352]:
+            xmin = 214.56225623582765 
+            xmax = 217.16225623582767 
+            text = "x" 
+        intervals [353]:
+            xmin = 217.16225623582767 
+            xmax = 217.42625623582765 
+            text = "ictus" 
+        intervals [354]:
+            xmin = 217.42625623582765 
+            xmax = 217.73825623582766 
+            text = "x" 
+        intervals [355]:
+            xmin = 217.73825623582766 
+            xmax = 217.99425623582766 
+            text = "ictus" 
+        intervals [356]:
+            xmin = 217.99425623582766 
+            xmax = 218.30625623582765 
+            text = "x" 
+        intervals [357]:
+            xmin = 218.30625623582765 
+            xmax = 218.56225623582765 
+            text = "ictus" 
+        intervals [358]:
+            xmin = 218.56225623582765 
+            xmax = 218.87425623582766 
+            text = "x" 
+        intervals [359]:
+            xmin = 218.87425623582766 
+            xmax = 219.13025623582766 
+            text = "ictus" 
+        intervals [360]:
+            xmin = 219.13025623582766 
+            xmax = 221.70625623582765 
+            text = "x" 
+        intervals [361]:
+            xmin = 221.70625623582765 
+            xmax = 221.97025623582766 
+            text = "ictus" 
+        intervals [362]:
+            xmin = 221.97025623582766 
+            xmax = 222.27425623582766 
+            text = "x" 
+        intervals [363]:
+            xmin = 222.27425623582766 
+            xmax = 222.53025623582766 
+            text = "ictus" 
+        intervals [364]:
+            xmin = 222.53025623582766 
+            xmax = 222.84225623582765 
+            text = "x" 
+        intervals [365]:
+            xmin = 222.84225623582765 
+            xmax = 223.09825623582765 
+            text = "ictus" 
+        intervals [366]:
+            xmin = 223.09825623582765 
+            xmax = 223.40225623582765 
+            text = "x" 
+        intervals [367]:
+            xmin = 223.40225623582765 
+            xmax = 223.66625623582766 
+            text = "ictus" 
+        intervals [368]:
+            xmin = 223.66625623582766 
+            xmax = 225.68451247165532 
+            text = "x" 

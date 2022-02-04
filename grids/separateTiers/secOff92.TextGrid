@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 45.30412698412698 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "secOff" 
+        xmin = 0 
+        xmax = 45.30412698412698 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.7542189601981453 
+            text = "" 
+        intervals [2]:
+            xmin = 3.7542189601981453 
+            xmax = 3.964064555079929 
+            text = "off-i" 
+        intervals [3]:
+            xmin = 3.964064555079929 
+            xmax = 9.64325785882632 
+            text = "" 
+        intervals [4]:
+            xmin = 9.64325785882632 
+            xmax = 9.87018854970075 
+            text = "off-ʊ" 
+        intervals [5]:
+            xmin = 9.87018854970075 
+            xmax = 10.31750874971045 
+            text = "" 
+        intervals [6]:
+            xmin = 10.31750874971045 
+            xmax = 10.553442176870748 
+            text = "off-ɪ" 
+        intervals [7]:
+            xmin = 10.553442176870748 
+            xmax = 11.674670791302226 
+            text = "" 
+        intervals [8]:
+            xmin = 11.674670791302226 
+            xmax = 11.874681972789116 
+            text = "off-a" 
+        intervals [9]:
+            xmin = 11.874681972789116 
+            xmax = 12.357720088233263 
+            text = "" 
+        intervals [10]:
+            xmin = 12.357720088233263 
+            xmax = 12.504688010163818 
+            text = "off-i" 
+        intervals [11]:
+            xmin = 12.504688010163818 
+            xmax = 12.989396855682523 
+            text = "" 
+        intervals [12]:
+            xmin = 12.989396855682523 
+            xmax = 13.18161111111111 
+            text = "off-i" 
+        intervals [13]:
+            xmin = 13.18161111111111 
+            xmax = 14.352412131519273 
+            text = "" 
+        intervals [14]:
+            xmin = 14.352412131519273 
+            xmax = 14.529960777374614 
+            text = "off-i" 
+        intervals [15]:
+            xmin = 14.529960777374614 
+            xmax = 15.043125876178546 
+            text = "" 
+        intervals [16]:
+            xmin = 15.043125876178546 
+            xmax = 15.218656670932116 
+            text = "off-u" 
+        intervals [17]:
+            xmin = 15.218656670932116 
+            xmax = 18.18180021122319 
+            text = "" 
+        intervals [18]:
+            xmin = 18.18180021122319 
+            xmax = 18.37162259724375 
+            text = "off-i" 
+        intervals [19]:
+            xmin = 18.37162259724375 
+            xmax = 18.801404922924043 
+            text = "" 
+        intervals [20]:
+            xmin = 18.801404922924043 
+            xmax = 18.981420087518735 
+            text = "off-a" 
+        intervals [21]:
+            xmin = 18.981420087518735 
+            xmax = 20.87874433106576 
+            text = "" 
+        intervals [22]:
+            xmin = 20.87874433106576 
+            xmax = 21.10775692769544 
+            text = "off-a" 
+        intervals [23]:
+            xmin = 21.10775692769544 
+            xmax = 21.62281345889319 
+            text = "" 
+        intervals [24]:
+            xmin = 21.62281345889319 
+            xmax = 21.82810698574846 
+            text = "off-u" 
+        intervals [25]:
+            xmin = 21.82810698574846 
+            xmax = 45.30412698412698 
+            text = "" 

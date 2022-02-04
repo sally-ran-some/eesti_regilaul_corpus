@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 45.30412698412698 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "firstOff" 
+        xmin = 0 
+        xmax = 45.30412698412698 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.098451476192571 
+            text = "" 
+        intervals [2]:
+            xmin = 3.098451476192571 
+            xmax = 3.298699837436101 
+            text = "off-eeː" 
+        intervals [3]:
+            xmin = 3.298699837436101 
+            xmax = 3.6640634920634954 
+            text = "" 
+        intervals [4]:
+            xmin = 3.6640634920634954 
+            xmax = 3.67175 
+            text = "off-ul" 
+        intervals [5]:
+            xmin = 3.67175 
+            xmax = 11.600006034859389 
+            text = "" 
+        intervals [6]:
+            xmin = 11.600006034859389 
+            xmax = 11.601742424544106 
+            text = "off-ɵi" 
+        intervals [7]:
+            xmin = 11.601742424544106 
+            xmax = 20.104063492063496 
+            text = "" 
+        intervals [8]:
+            xmin = 20.104063492063496 
+            xmax = 20.111455749873947 
+            text = "off-iiː" 
+        intervals [9]:
+            xmin = 20.111455749873947 
+            xmax = 20.18330223366176 
+            text = "" 
+        intervals [10]:
+            xmin = 20.18330223366176 
+            xmax = 20.405328759159424 
+            text = "off-uiː" 
+        intervals [11]:
+            xmin = 20.405328759159424 
+            xmax = 45.30412698412698 
+            text = "" 

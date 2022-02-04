@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 27.015034013605444 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "secIck" 
+        xmin = 0 
+        xmax = 27.015034013605444 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5338009250861713 
+            text = "" 
+        intervals [2]:
+            xmin = 1.5338009250861713 
+            xmax = 1.5339985758712942 
+            text = "ictus-a" 
+        intervals [3]:
+            xmin = 1.5339985758712942 
+            xmax = 2.5264839245720525 
+            text = "" 
+        intervals [4]:
+            xmin = 2.5264839245720525 
+            xmax = 2.5300097358093723 
+            text = "ictus-e" 
+        intervals [5]:
+            xmin = 2.5300097358093723 
+            xmax = 9.569818570467985 
+            text = "" 
+        intervals [6]:
+            xmin = 9.569818570467985 
+            xmax = 9.57208053201071 
+            text = "ictus-e" 
+        intervals [7]:
+            xmin = 9.57208053201071 
+            xmax = 12.387500149290677 
+            text = "" 
+        intervals [8]:
+            xmin = 12.387500149290677 
+            xmax = 12.621626268268257 
+            text = "ictus-æ" 
+        intervals [9]:
+            xmin = 12.621626268268257 
+            xmax = 15.840992571787767 
+            text = "" 
+        intervals [10]:
+            xmin = 15.840992571787767 
+            xmax = 15.872092601752001 
+            text = "ictus-i" 
+        intervals [11]:
+            xmin = 15.872092601752001 
+            xmax = 23.172059816268767 
+            text = "" 
+        intervals [12]:
+            xmin = 23.172059816268767 
+            xmax = 23.467690559520584 
+            text = "ictus-ɛ" 
+        intervals [13]:
+            xmin = 23.467690559520584 
+            xmax = 27.015034013605444 
+            text = "" 

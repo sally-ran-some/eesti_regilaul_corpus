@@ -1,0 +1,306 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 101.23190476190476 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "secOff" 
+        xmin = 0 
+        xmax = 101.23190476190476 
+        intervals: size = 73 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.137654608910329 
+            text = "" 
+        intervals [2]:
+            xmin = 7.137654608910329 
+            xmax = 7.266693714327116 
+            text = "off-i" 
+        intervals [3]:
+            xmin = 7.266693714327116 
+            xmax = 7.493657059614696 
+            text = "" 
+        intervals [4]:
+            xmin = 7.493657059614696 
+            xmax = 7.5613939129559515 
+            text = "off-e" 
+        intervals [5]:
+            xmin = 7.5613939129559515 
+            xmax = 8.17325283446712 
+            text = "" 
+        intervals [6]:
+            xmin = 8.17325283446712 
+            xmax = 8.443168772455099 
+            text = "off-ʊ" 
+        intervals [7]:
+            xmin = 8.443168772455099 
+            xmax = 8.96835164922968 
+            text = "" 
+        intervals [8]:
+            xmin = 8.96835164922968 
+            xmax = 9.317793463671057 
+            text = "off-u" 
+        intervals [9]:
+            xmin = 9.317793463671057 
+            xmax = 14.234461522066761 
+            text = "" 
+        intervals [10]:
+            xmin = 14.234461522066761 
+            xmax = 14.453553854875281 
+            text = "off-e" 
+        intervals [11]:
+            xmin = 14.453553854875281 
+            xmax = 15.052331502632839 
+            text = "" 
+        intervals [12]:
+            xmin = 15.052331502632839 
+            xmax = 15.303557924012225 
+            text = "off-i" 
+        intervals [13]:
+            xmin = 15.303557924012225 
+            xmax = 15.797482788933166 
+            text = "" 
+        intervals [14]:
+            xmin = 15.797482788933166 
+            xmax = 16.06263678632052 
+            text = "off-i" 
+        intervals [15]:
+            xmin = 16.06263678632052 
+            xmax = 20.612295462568905 
+            text = "" 
+        intervals [16]:
+            xmin = 20.612295462568905 
+            xmax = 20.837881028058494 
+            text = "off-e" 
+        intervals [17]:
+            xmin = 20.837881028058494 
+            xmax = 21.457693795374546 
+            text = "" 
+        intervals [18]:
+            xmin = 21.457693795374546 
+            xmax = 21.658387696233653 
+            text = "off-ɛ" 
+        intervals [19]:
+            xmin = 21.658387696233653 
+            xmax = 22.235328811591245 
+            text = "" 
+        intervals [20]:
+            xmin = 22.235328811591245 
+            xmax = 22.517455723444538 
+            text = "off-i" 
+        intervals [21]:
+            xmin = 22.517455723444538 
+            xmax = 28.22928502336368 
+            text = "" 
+        intervals [22]:
+            xmin = 28.22928502336368 
+            xmax = 28.2769555582538 
+            text = "off-i" 
+        intervals [23]:
+            xmin = 28.2769555582538 
+            xmax = 29.846630568091577 
+            text = "" 
+        intervals [24]:
+            xmin = 29.846630568091577 
+            xmax = 30.155153425146295 
+            text = "off-ɛ" 
+        intervals [25]:
+            xmin = 30.155153425146295 
+            xmax = 35.174551587301586 
+            text = "" 
+        intervals [26]:
+            xmin = 35.174551587301586 
+            xmax = 35.29238847170555 
+            text = "off-ɑ" 
+        intervals [27]:
+            xmin = 35.29238847170555 
+            xmax = 36.05189739229026 
+            text = "" 
+        intervals [28]:
+            xmin = 36.05189739229026 
+            xmax = 36.191150955215896 
+            text = "off-ɪ" 
+        intervals [29]:
+            xmin = 36.191150955215896 
+            xmax = 36.7737779992345 
+            text = "" 
+        intervals [30]:
+            xmin = 36.7737779992345 
+            xmax = 36.98934569612776 
+            text = "off-ɑ" 
+        intervals [31]:
+            xmin = 36.98934569612776 
+            xmax = 42.72656797797679 
+            text = "" 
+        intervals [32]:
+            xmin = 42.72656797797679 
+            xmax = 42.966384356347525 
+            text = "off-e" 
+        intervals [33]:
+            xmin = 42.966384356347525 
+            xmax = 43.68465419501134 
+            text = "" 
+        intervals [34]:
+            xmin = 43.68465419501134 
+            xmax = 43.79978729423491 
+            text = "off-ɪ" 
+        intervals [35]:
+            xmin = 43.79978729423491 
+            xmax = 44.3687450691388 
+            text = "" 
+        intervals [36]:
+            xmin = 44.3687450691388 
+            xmax = 44.58729482232898 
+            text = "off-a" 
+        intervals [37]:
+            xmin = 44.58729482232898 
+            xmax = 49.708386621315185 
+            text = "" 
+        intervals [38]:
+            xmin = 49.708386621315185 
+            xmax = 49.905260224138026 
+            text = "off-a" 
+        intervals [39]:
+            xmin = 49.905260224138026 
+            xmax = 50.71949168556311 
+            text = "" 
+        intervals [40]:
+            xmin = 50.71949168556311 
+            xmax = 50.85536890534981 
+            text = "off-ɪ" 
+        intervals [41]:
+            xmin = 50.85536890534981 
+            xmax = 51.47341362588547 
+            text = "" 
+        intervals [42]:
+            xmin = 51.47341362588547 
+            xmax = 51.69180699087783 
+            text = "off-a" 
+        intervals [43]:
+            xmin = 51.69180699087783 
+            xmax = 57.76102947845805 
+            text = "" 
+        intervals [44]:
+            xmin = 57.76102947845805 
+            xmax = 57.98999089877139 
+            text = "off-a" 
+        intervals [45]:
+            xmin = 57.98999089877139 
+            xmax = 58.71571214593103 
+            text = "" 
+        intervals [46]:
+            xmin = 58.71571214593103 
+            xmax = 58.93872023750613 
+            text = "off-i" 
+        intervals [47]:
+            xmin = 58.93872023750613 
+            xmax = 64.85127928303709 
+            text = "" 
+        intervals [48]:
+            xmin = 64.85127928303709 
+            xmax = 65.13837867981707 
+            text = "off-ɑ" 
+        intervals [49]:
+            xmin = 65.13837867981707 
+            xmax = 66.59556195704738 
+            text = "" 
+        intervals [50]:
+            xmin = 66.59556195704738 
+            xmax = 66.87841362944144 
+            text = "off-a" 
+        intervals [51]:
+            xmin = 66.87841362944144 
+            xmax = 73.28487056506722 
+            text = "" 
+        intervals [52]:
+            xmin = 73.28487056506722 
+            xmax = 73.52767828764814 
+            text = "off-e" 
+        intervals [53]:
+            xmin = 73.52767828764814 
+            xmax = 74.24683134328785 
+            text = "" 
+        intervals [54]:
+            xmin = 74.24683134328785 
+            xmax = 74.52069586759424 
+            text = "off-e" 
+        intervals [55]:
+            xmin = 74.52069586759424 
+            xmax = 79.72553401360544 
+            text = "" 
+        intervals [56]:
+            xmin = 79.72553401360544 
+            xmax = 79.9314648526077 
+            text = "off-a" 
+        intervals [57]:
+            xmin = 79.9314648526077 
+            xmax = 80.61526837351114 
+            text = "" 
+        intervals [58]:
+            xmin = 80.61526837351114 
+            xmax = 80.79787189008425 
+            text = "off-ɑ" 
+        intervals [59]:
+            xmin = 80.79787189008425 
+            xmax = 81.50644670050771 
+            text = "" 
+        intervals [60]:
+            xmin = 81.50644670050771 
+            xmax = 81.81167057822259 
+            text = "off-e" 
+        intervals [61]:
+            xmin = 81.81167057822259 
+            xmax = 88.3008635961081 
+            text = "" 
+        intervals [62]:
+            xmin = 88.3008635961081 
+            xmax = 88.48246085203188 
+            text = "off-u" 
+        intervals [63]:
+            xmin = 88.48246085203188 
+            xmax = 89.16907774635074 
+            text = "" 
+        intervals [64]:
+            xmin = 89.16907774635074 
+            xmax = 89.48598914895176 
+            text = "off-e" 
+        intervals [65]:
+            xmin = 89.48598914895176 
+            xmax = 90.03207603949834 
+            text = "" 
+        intervals [66]:
+            xmin = 90.03207603949834 
+            xmax = 90.16652848241795 
+            text = "off-a" 
+        intervals [67]:
+            xmin = 90.16652848241795 
+            xmax = 94.72574636193461 
+            text = "" 
+        intervals [68]:
+            xmin = 94.72574636193461 
+            xmax = 94.89787877999248 
+            text = "off-ɑ" 
+        intervals [69]:
+            xmin = 94.89787877999248 
+            xmax = 95.5994481165084 
+            text = "" 
+        intervals [70]:
+            xmin = 95.5994481165084 
+            xmax = 95.89843006920199 
+            text = "off-e" 
+        intervals [71]:
+            xmin = 95.89843006920199 
+            xmax = 96.45811749289811 
+            text = "" 
+        intervals [72]:
+            xmin = 96.45811749289811 
+            xmax = 96.76853409828728 
+            text = "off-ɑ" 
+        intervals [73]:
+            xmin = 96.76853409828728 
+            xmax = 101.23190476190476 
+            text = "" 

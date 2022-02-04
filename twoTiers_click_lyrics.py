@@ -68,6 +68,7 @@ SILENCE_LABEL = "x"
 SOUND_LABEL = "ictus"
 
 #autoSegmentSpeech(praatEXE, inputWavPath, rawTGPath)
-addPhraseTier(rawTGPath, finalTGPath)
+#markIctus(praatEXE,inputWavPath,rawTGPath)
+#addPhraseTier(rawTGPath, finalTGPath)
 addIntervalsLyrics(finalTGPath)
 #getLyrics(rawTGPath)

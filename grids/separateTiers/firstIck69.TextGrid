@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 44.2428125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "firstIck" 
+        xmin = 0 
+        xmax = 44.2428125 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5116391723356009 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5116391723356009 
+            xmax = 0.6007937846366989 
+            text = "ictus-a" 
+        intervals [3]:
+            xmin = 0.6007937846366989 
+            xmax = 0.754639172335601 
+            text = "ictus-e" 
+        intervals [4]:
+            xmin = 0.754639172335601 
+            xmax = 1.0316699032240237 
+            text = "" 
+        intervals [5]:
+            xmin = 1.0316699032240237 
+            xmax = 1.2734284493997174 
+            text = "ictus-øː" 
+        intervals [6]:
+            xmin = 1.2734284493997174 
+            xmax = 1.5736769664243693 
+            text = "" 
+        intervals [7]:
+            xmin = 1.5736769664243693 
+            xmax = 1.6884509416216669 
+            text = "ictus-o" 
+        intervals [8]:
+            xmin = 1.6884509416216669 
+            xmax = 7.364401913641083 
+            text = "" 
+        intervals [9]:
+            xmin = 7.364401913641083 
+            xmax = 7.496827519024623 
+            text = "ictus-i" 
+        intervals [10]:
+            xmin = 7.496827519024623 
+            xmax = 8.916495018265431 
+            text = "" 
+        intervals [11]:
+            xmin = 8.916495018265431 
+            xmax = 8.917874999999999 
+            text = "ictus-u" 
+        intervals [12]:
+            xmin = 8.917874999999999 
+            xmax = 44.2428125 
+            text = "" 

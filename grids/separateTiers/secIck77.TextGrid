@@ -1,0 +1,34 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 85.86397916666667 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "secIck" 
+        xmin = 0 
+        xmax = 85.86397916666667 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 22.019629147836106 
+            text = "" 
+        intervals [2]:
+            xmin = 22.019629147836106 
+            xmax = 22.019752054988665 
+            text = "ictus-e" 
+        intervals [3]:
+            xmin = 22.019752054988665 
+            xmax = 78.10255172902495 
+            text = "" 
+        intervals [4]:
+            xmin = 78.10255172902495 
+            xmax = 78.24002965307155 
+            text = "ictus-u" 
+        intervals [5]:
+            xmin = 78.24002965307155 
+            xmax = 85.86397916666667 
+            text = "" 

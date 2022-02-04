@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 44.2428125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "secOff" 
+        xmin = 0 
+        xmax = 44.2428125 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8425523308123924 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8425523308123924 
+            xmax = 0.9516391723356008 
+            text = "off-e" 
+        intervals [3]:
+            xmin = 0.9516391723356008 
+            xmax = 1.3573356009070292 
+            text = "" 
+        intervals [4]:
+            xmin = 1.3573356009070292 
+            xmax = 1.4705878684807254 
+            text = "off-e" 
+        intervals [5]:
+            xmin = 1.4705878684807254 
+            xmax = 1.8600215227786105 
+            text = "" 
+        intervals [6]:
+            xmin = 1.8600215227786105 
+            xmax = 1.977583333333333 
+            text = "off-a" 
+        intervals [7]:
+            xmin = 1.977583333333333 
+            xmax = 7.629253124408163 
+            text = "" 
+        intervals [8]:
+            xmin = 7.629253124408163 
+            xmax = 7.809925382653063 
+            text = "off-i" 
+        intervals [9]:
+            xmin = 7.809925382653063 
+            xmax = 44.2428125 
+            text = "" 

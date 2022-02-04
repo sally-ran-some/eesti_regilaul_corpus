@@ -1,15 +1,4 @@
-"""
-An example using TextgridTier set operations.
-The following example is derived from real code.
-The original code.  Suppose you have two tiers and want to use one tier to
-filter the results of another tier.  In my case, I had textgrids with
-stressed syllable and stressed vowels marked.  I wanted to extract pitch
-information using this tier.  But the pitch contour contained some pitch
-doubling and halving--afflicted areas were marked on a separate tier.
-By taking the difference between the two tiers, we get the relevant regions,
-minus areas affected by pitch halving and doubling.
-I've added union and intersection here just to show their effect.
-"""
+
 
 import os
 from os.path import join
@@ -74,12 +63,11 @@ def getIntersection(fromFN, toFN):
 
 
 
-fromFN = "/Users/sarah/Git/eesti_regilaul_corpus/grids"
+fromFN = "/Users/sarah/Git/eesti_regilaul_corpus/grids/dec_12_annotated_grids"
 toFN = "/Users/sarah/Git/eesti_regilaul_corpus/grids/output"
 lastFN = "/Users/sarah/Git/eesti_regilaul_corpus/grids/outOut"
 
-#splitIctus(fromFN,toFN)
-
+splitIctus(fromFN,toFN)
 getIntersection(toFN,lastFN)
 
 
