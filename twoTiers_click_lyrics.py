@@ -24,7 +24,7 @@ def addPhraseTier(rawTGPath, finalTGPath):
         if ".TextGrid" not in fn:
             continue
         tg = textgrid.openTextgrid(join(rawTGPath, fn),True)
-        phraseTier = textgrid.IntervalTier("phrase", entryList= [('0', tg.maxTimestamp,
+        phraseTier = textgrid.IntervalTier("syllable", entryList= [('0', tg.maxTimestamp,
         'test'),],minT=0,maxT=tg.maxTimestamp)
         tg.addTier(phraseTier)
         tg.save(join(finalTGPath,fn),'long_textgrid', True)
@@ -36,7 +36,7 @@ def addIntervalsLyrics(input):
         name = os.path.splitext(fn)[0]
         song = name+".txt"
         tg = textgrid.openTextgrid(join(input, fn),True)
-        tier2 = tg.tierDict["phrase"]
+        tier2 = tg.tierDict["syllable"]
         lyrics = open(join(input,song),"r")
         lyricList = lyrics.readlines()
         dur = (tg.maxTimestamp/len(lyricList))
@@ -70,5 +70,9 @@ SOUND_LABEL = "ictus"
 #autoSegmentSpeech(praatEXE, inputWavPath, rawTGPath)
 #markIctus(praatEXE,inputWavPath,rawTGPath)
 #addPhraseTier(rawTGPath, finalTGPath)
-addIntervalsLyrics(finalTGPath)
+#addIntervalsLyrics(finalTGPath)
 #getLyrics(rawTGPath)
+
+inTG = "/Users/sarah/qp_final/txtgridtest/"
+outTG = "/Users/sarah/qp_final/out/"
+addPhraseTier(inTG,outTG)
